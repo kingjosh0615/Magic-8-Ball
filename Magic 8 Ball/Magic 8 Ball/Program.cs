@@ -36,7 +36,7 @@ namespace Magic_8_Ball
                     {
                         Console.WriteLine("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE");
 
-                        using var proc = Process.Start(@"cmd.exe ", @"/c C:\Users\WILES_JOSHUA\Pictures\Pravin_Raut-min.jpg");
+                        OpenBrowser("https://legendsoflocalization.com/wp-content/uploads/2013/09/sonic-cd-majin-madzin-madin.png"); 
                     }
                 }
                 else if (question == "Red Robin")
@@ -97,7 +97,7 @@ namespace Magic_8_Ball
                 }
                 catch
                 {
-                    // hack because of this: https://github.com/dotnet/corefx/issues/10361
+                  
                     if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
                     {
                         url = url.Replace("&", "^&");
