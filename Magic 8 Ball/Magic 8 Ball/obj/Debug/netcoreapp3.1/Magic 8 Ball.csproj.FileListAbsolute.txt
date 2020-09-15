@@ -11,3 +11,16 @@ N:\C# Stuff\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.cspro
 N:\C# Stuff\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.dll
 N:\C# Stuff\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.pdb
 N:\C# Stuff\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.genruntimeconfig.cache
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.exe
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.deps.json
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.runtimeconfig.json
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.runtimeconfig.dev.json
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.dll
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.pdb
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.csprojAssemblyReference.cache
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.AssemblyInfoInputs.cache
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.AssemblyInfo.cs
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.csproj.CoreCompileInputs.cache
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.dll
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.pdb
+N:\C# Stuff\Magic-8-Ball\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.genruntimeconfig.cache

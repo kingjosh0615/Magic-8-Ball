@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\C# Stuff\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj": {}
+    "N:\\C# Stuff\\Magic-8-Ball\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj": {}
   },
   "projects": {
-    "N:\\C# Stuff\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj": {
+    "N:\\C# Stuff\\Magic-8-Ball\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\C# Stuff\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj",
+        "projectUniqueName": "N:\\C# Stuff\\Magic-8-Ball\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj",
         "projectName": "Magic 8 Ball",
-        "projectPath": "N:\\C# Stuff\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj",
+        "projectPath": "N:\\C# Stuff\\Magic-8-Ball\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj",
         "packagesPath": "C:\\Users\\WILES_JOSHUA\\.nuget\\packages\\",
-        "outputPath": "N:\\C# Stuff\\Magic 8 Ball\\Magic 8 Ball\\obj\\",
+        "outputPath": "N:\\C# Stuff\\Magic-8-Ball\\Magic 8 Ball\\Magic 8 Ball\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
