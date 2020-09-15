@@ -9,7 +9,7 @@ namespace Magic_8_Ball
         {
             int x = 1;
             int y = 1;
-            //string target = "http://www.mommytimes.net";
+            
             while (x == 1)
             {
                 Random rand1 = new Random();
@@ -24,13 +24,9 @@ namespace Magic_8_Ball
                     while (y == 1)
                     {
                         Console.WriteLine("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE");
-                        //Process.Start("C:\Users\WILES_JOSHUA\Pictures\candont.jpg");
+                        
                         using (var proc = Process.Start(@"cmd.exe ", @"/c C:\Users\WILES_JOSHUA\Pictures\Pravin_Raut-min.jpg")) { }
-                        //Process photoViewer = new Process();
-                        //photoViewer.StartInfo.FileName = @"The photo viewer file path";
-                        //photoViewer.StartInfo.Arguments = @"Your image file path";
-                        //photoViewer.Start();
-                        //C: \Users\WILES_JOSHUA\Desktop
+                       
                     }
                 }
                 else if (question == "Red Robin")
